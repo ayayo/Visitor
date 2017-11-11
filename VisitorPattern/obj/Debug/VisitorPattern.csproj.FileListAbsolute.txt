@@ -1,0 +1,6 @@
+C:\Users\Aya\Source\Repos\Visitor\VisitorPattern\bin\Debug\VisitorPattern.exe.config
+C:\Users\Aya\Source\Repos\Visitor\VisitorPattern\obj\Debug\VisitorPattern.csprojResolveAssemblyReference.cache
+C:\Users\Aya\Source\Repos\Visitor\VisitorPattern\bin\Debug\VisitorPattern.exe
+C:\Users\Aya\Source\Repos\Visitor\VisitorPattern\bin\Debug\VisitorPattern.pdb
+C:\Users\Aya\Source\Repos\Visitor\VisitorPattern\obj\Debug\VisitorPattern.exe
+C:\Users\Aya\Source\Repos\Visitor\VisitorPattern\obj\Debug\VisitorPattern.pdb
